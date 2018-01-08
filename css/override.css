@@ -39,7 +39,7 @@ html {
 
     .col-right {
       order: 2;
-      padding-left: 50px;
+      padding-right: 50px;
       padding-top: 0;
     }
 }
