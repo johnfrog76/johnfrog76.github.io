@@ -1,0 +1,3 @@
+[submodule "recipes-react-typescript"]
+	path = recipes-react-typescript
+	url = https://github.com/johnfrog76/recipes-react-typescript.git
