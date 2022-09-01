@@ -1,3 +1,6 @@
 [submodule "recipes-react-typescript"]
 	path = recipes-react-typescript
 	url = https://github.com/johnfrog76/recipes-react-typescript.git
+[submodule "Fluent-UI-DetailsList"]
+	path = Fluent-UI-DetailsList
+	url = https://github.com/johnfrog76/Fluent-UI-DetailsList.git
