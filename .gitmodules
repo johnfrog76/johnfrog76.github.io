@@ -4,3 +4,6 @@
 [submodule "Fluent-UI-DetailsList"]
 	path = Fluent-UI-DetailsList
 	url = https://github.com/johnfrog76/Fluent-UI-DetailsList.git
+[submodule "html-bowling"]
+	path = html-bowling
+	url = https://github.com/johnfrog76/html-bowling.git
