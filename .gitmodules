@@ -7,3 +7,6 @@
 [submodule "html-bowling"]
 	path = html-bowling
 	url = https://github.com/johnfrog76/html-bowling.git
+[submodule "weather-app"]
+	path = weather-app
+	url = https://github.com/johnfrog76/WeatherApp.git
